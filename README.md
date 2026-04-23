@@ -30,7 +30,7 @@ This project features smooth animations, interactive buttons, and a visually app
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/image-slider.git
+git clone [https://aseya1122.github.io/image-slider/]
 
 
 2. Open the project folder
